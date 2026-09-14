@@ -9,6 +9,8 @@ The main goal of MentalAi is to connect Artificial Intelligence with mental heal
 
 
 ———————————————————————————
+
+
 🤖 AI & Technologies
 The chatbot uses:
 • Python
@@ -27,6 +29,8 @@ The text is processed using:
 5. Label Encoding
 
 ———————————————————————————
+
+
 📊 Dataset
 The project uses an intents.json dataset containing:
 • 5 intents: Greeting, Goodbye, Thanks, Name, and Age
@@ -36,6 +40,8 @@ The JSON format was selected because it is lightweight, easy to modify, and suit
 
 
 ———————————————————————————
+
+
 ⚙️ Model Training
 The neural network was trained using:
 • Optimizer: Adam
@@ -47,12 +53,15 @@ The neural network was trained using:
 
 
 ———————————————————————————
+
+
 📈 Results
 The model achieved approximately 80–90% training accuracy, while validation accuracy remained around 20%.
 This revealed a significant overfitting problem, mainly caused by the very small dataset. The model performs well on training examples but struggles with new sentences.
 
 
 ———————————————————————————
+
 🚧 Challenges
 • Very limited training data
 • Simple model architecture
@@ -62,6 +71,7 @@ This revealed a significant overfitting problem, mainly caused by the very small
 
 
 ———————————————————————————
+
 🚀 Future Improvements
 Future versions could improve the system by:
 • Increasing the size and diversity of the dataset
@@ -72,6 +82,7 @@ Future versions could improve the system by:
 
 
 ———————————————————————————
+
 💡 Conclusion
 MentalAi represents a first step toward combining artificial intelligence with mental health support. With more data and advanced techniques, the system could become smarter, more accurate, and more helpful in providing digital emotional support.
 Note: MentalAi is a project for AI and mental health support and should not be considered a replacement for professional mental health care.
